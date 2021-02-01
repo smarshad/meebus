@@ -1,0 +1,113 @@
+/* CSS Document */
+
+body{ margin:0px; padding:px; font-family: OpenSans,Arial,Helvetica,sans-serif;  }
+@font-face{
+	font-family:OpenSans;
+	font-style:normal;
+	font-weight:400;
+	src:local('Open Sans'),local('OpenSans'),url(//themes.googleusercontent.com/static/fonts/opensans/v9/cJZKeOuBrn4kERxqtaUH3T8E0i7KZn-EPnyo3HZu7kw.woff) format('woff')
+}
+#header {
+	width:1000px;
+	margin: 0px auto;
+}
+
+#logo p {
+	margin: 0;
+	padding: 12px 0 0 0;
+}
+.cf:after { 
+	visibility: hidden; 
+	display: block; 
+	font-size: 0; 
+	content: " "; 
+	clear: both; 
+	height: 0; 
+}
+#header h1 {
+    padding: 0;
+    font-size: 21px;
+    color: #626262;
+    font-weight: 300;
+    text-align: center;
+    line-height: 26px;
+    margin: 0;
+}
+#admin_bg {
+	width: 450px;
+	background: #f5f5f5 url("../images/login.png") no-repeat 25px 35px;
+	margin: 0px auto;
+	padding:25px;
+	border-radius: 5px;
+	background: #fff;
+	border: 3px solid #e31e25;
+}
+input[type="text"], input[type="password"] {
+	font-size: 16px;
+	height: auto;
+	padding: 10px;
+	box-shadow: none;
+	border-radius: 2px;
+	border: 1px solid #CCC;
+	width: 100%;
+	line-height: 20px;
+color: #555;
+vertical-align: middle;
+min-height: 30px;
+display: inline-block;
+}
+#admin_bg .admin_in {
+	width:100%;
+}
+#admin_bg .admin_in .header{
+	width:400px; 
+	height:30px;  
+	padding-top:15px; 
+	margin-left:30px; 
+	font-size:18px; 
+	font-weight:bold; 
+}	
+.log_bg {
+	width: 100%;
+	margin-left: 0;
+	margin-top: 15px;
+}
+.log_main {
+	width: 100%;
+	margin-bottom: 15px;
+}
+.log_lft {
+	width: 100%;
+	margin-top: 0;
+	font-size: 15px;
+	font-weight: bold;
+	color: #333;
+	float: left;
+	margin-bottom: 10px;
+}
+.log_rgt {
+	width: 100%;
+	float: left;
+}
+.clr {
+	clear:both;
+}
+.log_but {
+	width: 128px;
+	float: none;
+	text-align: center;
+	display: block;
+	margin: 0px auto;
+}
+body { 
+	padding-top: 40px !important;
+	padding-bottom: 40px !important;
+	background: url("../../agent/images/fabric.png") repeat scroll 0 0 !important;
+}
+#admin_bg img.logo{
+	width: 200px;
+	display: block;
+	float: none;
+	margin: 10px auto 25px;
+	padding: 0px;
+}

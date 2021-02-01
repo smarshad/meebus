@@ -1,0 +1,2 @@
+[24-Oct-2015 18:51:34 UTC] PHP Warning:  mysql_query(): Access denied for user 'relish'@'localhost' (using password: NO) in /home/relish/public_html/include/bus_library/library/store/mysql/install.php on line 25
+[24-Oct-2015 18:51:34 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/relish/public_html/include/bus_library/library/store/mysql/install.php on line 25

@@ -1,0 +1,227 @@
+/* CSS Document */
+
+/* Admin */
+
+div.adpagination {
+	padding: 3px;
+	margin: 3px;
+}
+
+div.adpagination a {
+	padding: 2px 5px 2px 5px;
+	margin: 2px;
+	border: 1px solid #AAAADD;
+	
+	text-decoration: none; /* no underline */
+	color: #000099;
+}
+div.adpagination a:hover, div.adpagination a:active {
+	border: 1px solid #000099;
+
+	color: #000;
+}
+div.adpagination span.adcurrent {
+	padding: 2px 5px 2px 5px;
+	margin: 2px;
+		border: 1px solid #000099;
+		
+		font-weight: bold;
+		background-color: #000099;
+		color: #FFF;
+	}
+	div.adpagination span.addisabled {
+		padding: 2px 5px 2px 5px;
+		margin: 2px;
+		border: 1px solid #EEE;
+	
+		color: #DDD;
+	}
+
+
+body {
+	font-family: Verdana;
+	font-size: 11px;
+	color: #000099;
+	text-align:justify;
+	line-height: 16px;	
+}
+
+
+select{
+	font-family: Verdana;
+	font-size: 11px;
+	color: #000099;
+}
+
+
+p
+{
+	width:100%;
+	height:0px;
+}
+
+a
+{
+text-decoration:none;
+}
+
+a:hover
+{
+color:#000000;
+/*text-decoration:blink;*/
+}
+
+.err_msg{font-size:11px; color:#FF0000;font-weight:bold;}
+.suc_msg{font-size:11px; color:#009900;font-weight:bold;}
+
+
+/* Aishu Start Here */
+
+.combobox{
+	border:1px solid #7f9db9; 
+	background-color:#fff; 
+	font-size: 11px; 
+	width: 150px; 
+	color: black; 
+	height: 20px; 
+	padding:2px;
+}
+
+.combobox1{
+	border:1px solid #7f9db9; 
+	background-color:#fff; 
+	font-size: 11px; 
+	width: 207px; 
+	color: black; 
+	height: 20px; 
+	padding:2px;
+}
+
+.combobox-small
+{
+	background-color:#FFFFFF;
+	border:1px solid #CCCCCC;
+	font-size: 11px; 
+	color:#666666; 
+	padding-left:3px; 
+	width: 100px; 
+	height: 20px; 
+}
+
+.textbox{
+	background-color:#FFFFFF;
+	border:1px solid #CCCCCC;
+	background-color:#fff; 
+	font-size: 11px; 
+	width: 145px; 
+	color: black; 
+	height: 14px; 
+	padding:2px;
+}
+
+.textbox1
+{
+	background-color:#FFFFFF;
+	border:1px solid #CCCCCC;
+	background-color:#fff; 
+	font-size: 11px; 
+	width: 180px; 
+	color: black; 
+	height: 14px; 
+	padding:2px;
+}
+
+.textbox2
+{
+
+	background-color:#FFFFFF;
+	border:1px solid #CCCCCC;
+	font-size:11px;
+	color:#666666;
+	padding-left:3px; 
+	width: 230px; 
+	height: 20px; 
+
+}
+
+.textbox-mini{
+	border:1px solid #7f9db9; 
+	background-color:#fff; 
+	font-size: 11px; 
+	width: 100px; 
+	color: black; 
+	height: 14px; 
+	padding:2px;
+}
+
+.bold1 
+{
+	font-size:12px;
+	color:#000099;
+	font-weight:400;
+	font-family: Verdana, Arial, Helvetica, sans-serif ;
+}
+
+.table-bor
+{ 
+	border: 1px solid #6AA6E8 ;
+}
+
+.link1
+{
+font-size: 11px; color:#0033FF; text-decoration: none ; font-weight:bold;
+}
+
+link1:hover {font-size: 11px; color: #FF0000; text-decoration: Underline;}
+
+hr
+{
+	background-color:#6AA6E8;
+	height: 1px; 
+	border:0px;
+}
+
+/* Aishu End Here */
+
+.button
+{
+	width:auto;
+}
+.left-btn
+{
+	width:10px;
+	height:22px;
+	float:left;
+	background:url(images/a.jpg) no-repeat;
+}
+.mid-btn 
+{
+	width:auto;
+	height:22px;
+	float:left;
+	background:#CF000B;
+	
+	font-size:12px;
+	color:#FFFFFF;
+	
+	font-weight:bold;
+}
+.mid-btn a
+{
+	
+	font-size:12px;
+	color:#FFFFFF;
+	font-weight:bold;
+	text-decoration:none;
+}
+.mid-btn a:hover
+{
+	color:#000000;
+}
+.right-btn
+{
+	width:10px;
+	height:22px;
+	float:left;
+	background:url(images/c.jpg) no-repeat;
+}

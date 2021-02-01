@@ -1,0 +1,39 @@
+[25-Jun-2016 12:40:22 Asia/Calcutta] PHP Warning:  include_once(..includes/functions.php): failed to open stream: No such file or directory in /home/sitedemos/public_html/ownbus/app/history.php on line 13
+[25-Jun-2016 12:40:22 Asia/Calcutta] PHP Warning:  include_once(): Failed opening '..includes/functions.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/sitedemos/public_html/ownbus/app/history.php on line 13
+[25-Jun-2016 12:40:22 Asia/Calcutta] PHP Warning:  mysql_query(): Access denied for user 'sitedemos'@'localhost' (using password: NO) in /home/sitedemos/public_html/ownbus/app/history.php on line 23
+[25-Jun-2016 12:40:22 Asia/Calcutta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/sitedemos/public_html/ownbus/app/history.php on line 23
+[25-Jun-2016 12:40:22 Asia/Calcutta] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/sitedemos/public_html/ownbus/app/history.php on line 24
+[25-Jun-2016 12:43:35 Asia/Calcutta] PHP Warning:  include_once(..includes/mysqlclass.php): failed to open stream: No such file or directory in /home/sitedemos/public_html/ownbus/app/history.php on line 13
+[25-Jun-2016 12:43:35 Asia/Calcutta] PHP Warning:  include_once(): Failed opening '..includes/mysqlclass.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/sitedemos/public_html/ownbus/app/history.php on line 13
+[25-Jun-2016 12:43:35 Asia/Calcutta] PHP Warning:  include_once(..includes/functions.php): failed to open stream: No such file or directory in /home/sitedemos/public_html/ownbus/app/history.php on line 14
+[25-Jun-2016 12:43:35 Asia/Calcutta] PHP Warning:  include_once(): Failed opening '..includes/functions.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/sitedemos/public_html/ownbus/app/history.php on line 14
+[25-Jun-2016 12:43:35 Asia/Calcutta] PHP Warning:  mysql_query(): Access denied for user 'sitedemos'@'localhost' (using password: NO) in /home/sitedemos/public_html/ownbus/app/history.php on line 24
+[25-Jun-2016 12:43:35 Asia/Calcutta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/sitedemos/public_html/ownbus/app/history.php on line 24
+[25-Jun-2016 12:43:35 Asia/Calcutta] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/sitedemos/public_html/ownbus/app/history.php on line 25
+[25-Jun-2016 12:44:01 Asia/Calcutta] PHP Warning:  include_once(..includes/mysqlclass.php): failed to open stream: No such file or directory in /home/sitedemos/public_html/ownbus/app/history.php on line 13
+[25-Jun-2016 12:44:01 Asia/Calcutta] PHP Warning:  include_once(): Failed opening '..includes/mysqlclass.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/sitedemos/public_html/ownbus/app/history.php on line 13
+[25-Jun-2016 12:44:01 Asia/Calcutta] PHP Warning:  include_once(..includes/functions.php): failed to open stream: No such file or directory in /home/sitedemos/public_html/ownbus/app/history.php on line 14
+[25-Jun-2016 12:44:01 Asia/Calcutta] PHP Warning:  include_once(): Failed opening '..includes/functions.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/sitedemos/public_html/ownbus/app/history.php on line 14
+[25-Jun-2016 12:44:01 Asia/Calcutta] PHP Warning:  mysql_query(): Access denied for user 'sitedemos'@'localhost' (using password: NO) in /home/sitedemos/public_html/ownbus/app/history.php on line 24
+[25-Jun-2016 12:44:01 Asia/Calcutta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/sitedemos/public_html/ownbus/app/history.php on line 24
+[25-Jun-2016 12:44:01 Asia/Calcutta] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/sitedemos/public_html/ownbus/app/history.php on line 25
+[25-Jun-2016 12:44:55 Asia/Calcutta] PHP Warning:  include_once(..includes/mysqlclass.php): failed to open stream: No such file or directory in /home/sitedemos/public_html/ownbus/app/history.php on line 13
+[25-Jun-2016 12:44:55 Asia/Calcutta] PHP Warning:  include_once(): Failed opening '..includes/mysqlclass.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/sitedemos/public_html/ownbus/app/history.php on line 13
+[25-Jun-2016 12:44:55 Asia/Calcutta] PHP Warning:  include_once(..includes/functions.php): failed to open stream: No such file or directory in /home/sitedemos/public_html/ownbus/app/history.php on line 14
+[25-Jun-2016 12:44:55 Asia/Calcutta] PHP Warning:  include_once(): Failed opening '..includes/functions.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/sitedemos/public_html/ownbus/app/history.php on line 14
+[25-Jun-2016 12:44:55 Asia/Calcutta] PHP Warning:  mysql_query(): Access denied for user 'sitedemos'@'localhost' (using password: NO) in /home/sitedemos/public_html/ownbus/app/history.php on line 24
+[25-Jun-2016 12:44:55 Asia/Calcutta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/sitedemos/public_html/ownbus/app/history.php on line 24
+[25-Jun-2016 12:44:55 Asia/Calcutta] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/sitedemos/public_html/ownbus/app/history.php on line 25
+[25-Jun-2016 12:45:37 Asia/Calcutta] PHP Warning:  include_once(..includes/mysqlclass.php): failed to open stream: No such file or directory in /home/sitedemos/public_html/ownbus/app/history.php on line 13
+[25-Jun-2016 12:45:37 Asia/Calcutta] PHP Warning:  include_once(): Failed opening '..includes/mysqlclass.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/sitedemos/public_html/ownbus/app/history.php on line 13
+[25-Jun-2016 12:45:37 Asia/Calcutta] PHP Warning:  include_once(..includes/functions.php): failed to open stream: No such file or directory in /home/sitedemos/public_html/ownbus/app/history.php on line 14
+[25-Jun-2016 12:45:37 Asia/Calcutta] PHP Warning:  include_once(): Failed opening '..includes/functions.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/sitedemos/public_html/ownbus/app/history.php on line 14
+[25-Jun-2016 12:45:37 Asia/Calcutta] PHP Warning:  mysql_query(): Access denied for user 'sitedemos'@'localhost' (using password: NO) in /home/sitedemos/public_html/ownbus/app/history.php on line 24
+[25-Jun-2016 12:45:37 Asia/Calcutta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/sitedemos/public_html/ownbus/app/history.php on line 24
+[25-Jun-2016 12:45:37 Asia/Calcutta] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/sitedemos/public_html/ownbus/app/history.php on line 25
+[20-Jul-2016 13:31:09 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '[' in /home/sitedemos/public_html/ownbus/app/todestination.php on line 32
+[20-Aug-2016 13:09:32 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')', expecting ';' in /home/sitedemos/public_html/ownbus/app/view_seat_result1.php on line 130
+[20-Aug-2016 13:13:10 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')', expecting ';' in /home/sitedemos/public_html/ownbus/app/view_seat_result1.php on line 130
+[20-Aug-2016 13:14:40 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')', expecting ';' in /home/sitedemos/public_html/ownbus/app/view_seat_result1.php on line 130
+[28-Aug-2016 18:28:35 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '__v' (T_STRING), expecting ',' or ';' in /home/sitedemos/public_html/ownbus/app/angulartest.php on line 43
+[28-Aug-2016 18:28:39 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '__v' (T_STRING), expecting ',' or ';' in /home/sitedemos/public_html/ownbus/app/angulartest.php on line 43

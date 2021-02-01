@@ -1,0 +1,251 @@
+.booking-tab {
+    background: none repeat scroll 0% 0% #E6E6E6;
+    padding: 30px 0px;
+}
+.booking-tab .nav-tabs {
+    border-bottom: medium none;
+}
+.booking-tab .nav-tabs .active {
+    position: relative;
+}
+.booking-tab .nav-tabs > li.active > a, .booking-tab .nav-tabs > li > a {
+    color: #07253F;
+}
+.booking-tab .nav-tabs > li.active > a, .booking-tab .nav-tabs > li.active > a:focus, .booking-tab .nav-tabs > li.active > a:hover {
+    border: medium none;
+    background: none repeat scroll 0% 0% #E6E6E6;
+    position: relative;
+}
+.nav-tabs > li.active > a, .nav-tabs > li.active > a:focus, .nav-tabs > li.active > a:hover {
+    color: #0A3152;
+}
+.booking-tab .nav-tabs > li.active > a i, .booking-tab .nav-tabs > li > a i {
+    display: block;
+    padding: 5px;
+    font-size: 30px;
+}
+.booking-tab .nav-tabs > li.active > a span, .booking-tab .nav-tabs > li > a span {
+    font-size: 20px;
+}
+.booking-tab .nav-tabs .active::after {
+    background: none repeat scroll 0px 0px #F9676B;
+    content: "";
+    height: 5px;
+    left: 43%;
+    position: absolute;
+    top: 100%;
+    width: 50px;
+}
+.bac{background: #fff;}
+.booking-detail {
+    padding: 60px 0px;
+}
+.login-box {
+    overflow: hidden;
+    border: 1px solid #E6E6E6;
+    box-shadow: 0px 0px 5px #E6E6E6;
+    margin-top: 40px;
+}
+.login-box h3 {
+    background: none repeat scroll 0px 0px #E6E6E6;
+    line-height: 1.6;
+    margin: 0px;
+    padding: 10px 20px;
+}
+.booking-form {
+    padding: 0px 15px 20px;
+    overflow: hidden;
+}
+.booking-form label {
+    margin-top: 15px;
+}
+.booking-form .form-control {
+    height: 40px;
+    border-radius: 0px;
+}
+.booking-form button {
+    background: none repeat scroll 0px 0px #F2676B;
+    border: medium none;
+    color: #FFF;
+    display: block;
+    font-weight: bold;
+    margin-top: 15px;
+    padding: 10px 50px;
+}
+#review-booking .flight-list-v2 {
+    margin: 0px;
+}
+.flight-list-v2 {
+    margin: 40px 15px 0px;
+    overflow: hidden;
+    border: 1px solid #E6E6E6;
+    box-shadow: 0px 0px 5px #E6E6E6;
+}
+.social-media-login {
+    margin-top: 20px;
+}
+.social-media-login a {
+    background: none repeat scroll 0% 0% #5470AF;
+    color: #FFF;
+    display: inline-block;
+    font-weight: bold;
+    line-height: 1;
+    margin: 10px 0px;
+    padding: 0px 15px;
+}
+.social-media-login a i {
+    border-right: 1px solid #FFF;
+    margin-right: 15px;
+    padding: 15px 15px 15px 0px;
+}
+.social-media-login span {
+    display: block;
+    font-weight: bold;
+}
+.booking-sidebar .sidebar-item {
+    border: 1px solid #E6E6E6;
+    box-shadow: 0px 0px 5px #E6E6E6;
+}
+.booking-sidebar .sidebar-item h4 {
+    background: none repeat scroll 0px 0px #E6E6E6;
+    padding: 20px 15px;
+    font-weight: bold;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    margin: 0px;
+}
+.booking-sidebar .sidebar-item h4 i {
+    color: #F2676B;
+    margin-right: 10px;
+}
+.booking-sidebar .sidebar-body {
+    padding: 20px;
+}
+.sidebar-body {
+    overflow: hidden;
+}
+.booking-sidebar .sidebar-body .table {
+    margin-bottom: 0px;
+}
+.booking-sidebar .sidebar-body table tr {
+    border-bottom: 1px solid #E6E6E6;
+}
+.booking-sidebar .sidebar-body table td {
+    border-top: medium none;
+}
+.booking-sidebar .sidebar-body .total {
+    font-size: 20px;
+    font-weight: bold;
+}
+.booking-sidebar .contact-box {
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+.passenger-detail {
+    overflow: hidden;
+    border: 1px solid #E6E6E6;
+    box-shadow: 0px 0px 5px #E6E6E6;
+}
+.passenger-detail h3 {
+    margin: 0px;
+    padding: 10px 20px;
+    line-height: 1.6;
+    background: none repeat scroll 0% 0% #E6E6E6;
+}
+.passenger-detail-body {
+    padding: 5px 35px 5px 20px;
+}
+.passenger-detail-body label {
+    margin-top: 15px;
+    font-weight: normal;
+}
+.passenger-detail-body .form-control {
+    border-radius: 0px;
+    height: 30px;
+}
+.passenger-detail-body button {
+    background: none repeat scroll 0px 0px #F2676B;
+    color: #FFF;
+    display: inline-block;
+    font-size: 14px;
+    font-weight: bold;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border: medium none;
+    padding: 10px 20px;
+}
+.lef{margin-left: 0px !important}
+.saved-card {
+    border: 1px solid #E6E6E6;
+    overflow: hidden;
+    padding: 0px 20px;
+}
+.saved-card label {
+    margin-top: 10px;
+}
+.passenger-detail-body button:hover {
+    background: none repeat scroll 0% 0% #00ADEF;
+}
+.payment-seperator {
+    border-top: 1px solid #E6E6E6;
+    margin: 40px 0px 30px;
+    position: relative;
+}
+.payment-seperator::after {
+    background: none repeat scroll 0px 0px #E6E6E6;
+    border-radius: 50%;
+    content: "Or";
+    left: 45%;
+    padding: 20px 18px;
+    position: absolute;
+    top: -23px;
+    z-index: 1;
+}
+.paypal-pay i {
+    color: #009CDE;
+    font-size: 50px;
+    margin-top: 20px;
+}
+.paypal-pay a {
+    background: none repeat scroll 0px 0px #F2676B;
+    color: #FFF;
+    display: inline-block;
+    font-weight: bold;
+    margin-top: 25px;
+    padding: 10px 20px;
+}
+.clear-margin {
+    margin-top: 0;
+}
+.booking-summary-title {
+    margin-bottom: 10px;
+    overflow: hidden;
+}
+/* .clear-padding {
+    padding: 0px;
+} */
+.sidebar-item img {
+    max-width: 100%;
+}
+.booking-summary h5 {
+    margin-top: 0px;
+}
+.booking-summary .fa-star {
+    color: #E1974F;
+}
+.booking-summary .loc {
+    color: #00ADEF;
+}
+.booking-summary .date {
+    border: 1px solid #E6E6E6;
+    max-width: 100px;
+    padding-top: 5px;
+}
+.booking-summary .date h2 {
+    margin: 0px;
+}
+.booking-summary .date h5 {
+    background: none repeat scroll 0% 0% #E6E6E6;
+    margin: 0px;
+    padding: 5px;
+}

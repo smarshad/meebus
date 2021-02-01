@@ -1,0 +1,12 @@
+[19-Aug-2020 13:45:58 Asia/Kolkata] PHP Notice:  Undefined index: system in /home5/meebus/public_html/server/server.php on line 20
+[19-Aug-2020 13:45:58 Asia/Kolkata] PHP Notice:  Undefined index: GATEWAY_INTERFACE in /home5/meebus/public_html/server/server.php on line 49
+[19-Aug-2020 13:45:58 Asia/Kolkata] PHP Notice:  Undefined index: SERVER_SIGNATURE in /home5/meebus/public_html/server/server.php on line 49
+[22-Jan-2021 02:39:36 Asia/Kolkata] PHP Notice:  Undefined index: system in /home/meebus/public_html/server/server.php on line 8
+[23-Jan-2021 03:42:01 Asia/Kolkata] PHP Notice:  Undefined index: system in /home/meebus/public_html/server/server.php on line 8
+[23-Jan-2021 01:46:20 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/meebus/public_html/server/server.php on line 3
+[23-Jan-2021 07:16:20 Asia/Kolkata] PHP Notice:  Undefined index: system in /home/meebus/public_html/server/server.php on line 8
+[23-Jan-2021 10:16:14 Asia/Kolkata] PHP Notice:  Undefined index: system in /home/meebus/public_html/server/server.php on line 8
+[23-Jan-2021 11:34:34 Asia/Kolkata] PHP Notice:  Undefined index: system in /home/meebus/public_html/server/server.php on line 8
+[23-Jan-2021 20:53:12 Asia/Kolkata] PHP Notice:  Undefined index: system in /home/meebus/public_html/server/server.php on line 8
+[24-Jan-2021 19:24:00 Asia/Kolkata] PHP Notice:  Undefined index: system in /home/meebus/public_html/server/server.php on line 8
+[24-Jan-2021 19:36:54 Asia/Kolkata] PHP Notice:  Undefined index: system in /home/meebus/public_html/server/server.php on line 8

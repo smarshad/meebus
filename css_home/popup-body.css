@@ -1,0 +1,187 @@
+* {
+  box-sizing: border-box;
+}
+
+html {
+  min-height: 100%;
+}
+
+body {
+  height: 100%;
+  background: #F85E5E;
+  font-family: "Lato", sans-serif;
+  font-weight: 300;
+  smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+
+.wrapper {
+  display: -webkit-box;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+          flex-direction: column;
+  -webkit-box-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+          align-items: center;
+}
+
+.box {
+  display: -webkit-box;
+  display: flex;
+  position: relative;
+  width: 686px;
+  height: 486px;
+  min-height: 486px;
+  background: white;
+  border-radius: 5px;
+}
+.box--bg {
+  /* background: url(https://i.imgur.com/oOhMaEa.png) no-repeat right botto; */
+}
+
+@media only screen and (max-width: 900px) {
+.box-left {
+  display: none;
+  position: relative;
+ /* width: 278px;*/
+ width: 450px;
+  }
+}
+
+@media only screen and (min-width: 901px) {
+.box-left {
+  position: relative;
+ /* width: 278px;*/
+ width: 450px;
+}
+
+@media only screen and (max-width: 900px) {
+.box-right {
+  text-align: center;
+  padding:20px auto !important;
+  width: 100% !important;
+  }
+}
+
+@media only screen and (min-width: 901px) {
+.box-right {
+  padding-left: 30px;
+  width: 408px;
+  }
+}
+
+
+.box__bg {
+    background-image: url("../images_home/popup-baground.png");
+  /* background-color: #cccccc; */
+  height: 487px;
+  background-position: initial;
+  background-repeat: no-repeat;
+  background-size: cover;
+  border-radius: 5px;
+  z-index: 0;
+  top: 0;
+  left: 0;
+  
+  /* position: relative; */
+   /* background: url(images/background/banner.png) no-repeat, height: 486px; */
+}
+.box__brand {
+  position: absolute;
+  z-index: 2;
+  top: 42%;
+  left: 32%;
+  font-family: "Berkshire Swash", cursive;
+  font-size: 49px;
+  color: white;
+}
+.box__login {
+  position: relative;
+  top: 36px;
+  right: 30px;
+  font-size: 12px;
+  text-align: right;
+}
+.box__login-button {
+  margin-left: 10px;
+}
+.box__content {
+  position: relative;
+  top: 126px;
+  padding: 16px;
+}
+.box__title {
+  margin-bottom: 20px;
+  font-size: 30px;
+  line-height: 28px;
+  text-rendering: optimizeLegibility;
+}
+.box__caption {
+  margin-bottom: 20px;
+  font-family: "Lato", sans-serif;
+  font-size: 14px;
+  font-smoothing: antialiased;
+  line-height: 18px;
+  text-rendering: optimizeLegibility;
+}
+
+.menu {
+  display: block;
+  position: absolute;
+  z-index: 3;
+  width: 32px;
+  height: 32px;
+  top: 30px;
+  left: 30px;
+}
+.menu__trigger:before, .menu__trigger:after, .menu__trigger span {
+  position: absolute;
+  width: 20px;
+  height: 3px;
+  top: 8.5px;
+  background: white;
+  border-radius: 2px;
+}
+.menu__trigger:before {
+  content: "";
+  top: 2.5px;
+}
+.menu__trigger:after {
+  content: "";
+  top: 14.5px;
+}
+
+.button {
+  padding: 12px;
+  width: 76px;
+  font-size: 12px;
+  font-weight: 400;
+  text-align: center;
+  cursor: pointer;
+  text-transform: uppercase;
+}
+.button__primary {
+  background: linear-gradient(135deg, #76c5b5 0%, #536291 100%);
+  border-radius: 5px;
+  color: white;
+}
+.button--circle {
+  padding: 5px 10px;
+  border-radius: 50%;
+  line-height: 0;
+}
+
+.copy {
+  margin-top: 20px;
+  font-size: 12px;
+  text-align: center;
+}
+.copy strong {
+  color: #536291;
+}
+.copy a {
+  text-decoration: none;
+  color: #536291;
+}

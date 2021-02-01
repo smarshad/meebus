@@ -1,0 +1,582 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"False",
+				"FALSE"
+			],
+			[
+				"int",
+				"intval"
+			],
+			[
+				"user",
+				"userId"
+			],
+			[
+				"u",
+				"userId"
+			],
+			[
+				"pa",
+				"param4"
+			],
+			[
+				"para",
+				"param3"
+			],
+			[
+				"par",
+				"param3"
+			],
+			[
+				"book",
+				"book_detail"
+			],
+			[
+				"di",
+				"display\tproperty"
+			],
+			[
+				"QUery",
+				"QUERY"
+			],
+			[
+				"bo",
+				"border\tproperty"
+			],
+			[
+				"sta",
+				"station"
+			],
+			[
+				"fa",
+				"family_id"
+			],
+			[
+				"base",
+				"base_url"
+			],
+			[
+				"ne",
+				"netamount"
+			],
+			[
+				"r",
+				"row"
+			],
+			[
+				"re",
+				"remove"
+			],
+			[
+				"p",
+				"php"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"master",
+				"master_order"
+			],
+			[
+				"mats",
+				"master_user"
+			],
+			[
+				"to",
+				"total"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"ret",
+				"return"
+			],
+			[
+				"cart",
+				"cartdata"
+			],
+			[
+				"for",
+				"formId"
+			],
+			[
+				"the",
+				"theme"
+			],
+			[
+				"th",
+				"theme"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"se",
+				"setting"
+			],
+			[
+				"F",
+				"FALSE"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/xampp/htdocs/meebus"
+	],
+	"file_history":
+	[
+		"/C/xampp/htdocs/gic/application/views/common_form/ins_form.php",
+		"/C/xampp/htdocs/gic/application/views/commonform.php",
+		"/C/xampp/htdocs/gic/application/helpers/common_helper.php",
+		"/C/xampp/htdocs/gic/application/controllers/Insurance.php",
+		"/C/xampp/htdocs/gic/application/views/new-staff.php",
+		"/C/xampp/htdocs/gic/application/config/autoload.php",
+		"/C/xampp/htdocs/gic/application/controllers/Api/Masters.php",
+		"/C/xampp/htdocs/gic/application/controllers/Modal.php",
+		"/C/xampp/htdocs/gic/application/controllers/Masters.php",
+		"/C/xampp/htdocs/gic/application/models/Master_model.php",
+		"/C/xampp/htdocs/gic/application/views/list-company.php",
+		"/C/xampp/htdocs/gic/assets/js/admin/list-policy.js",
+		"/C/xampp/htdocs/gic/assets/js/common.js",
+		"/C/xampp/htdocs/gic/assets/js/admin/list-company.js",
+		"/C/xampp/htdocs/gic/application/views/modal/modal_company.php",
+		"/C/xampp/htdocs/gic/application/views/list-department.php",
+		"/C/xampp/htdocs/gic/assets/js/admin/list-policy-type.js",
+		"/C/xampp/htdocs/gic/application/views/modal/modal_policy_type.php",
+		"/C/xampp/htdocs/gic/application/config/routes.php",
+		"/C/xampp/htdocs/gic/application/views/list-policy-type.php",
+		"/C/xampp/htdocs/gic/application/models/Crud_model.php",
+		"/C/xampp/htdocs/gic/assets/js/admin/login.js",
+		"/C/xampp/htdocs/gic/assets/js/admin/list-department.js",
+		"/C/xampp/htdocs/gic/application/views/master-clients.php",
+		"/C/xampp/htdocs/gic/application/controllers/Api/Staff.php",
+		"/C/xampp/htdocs/gic/application/config/database.php",
+		"/C/xampp/htdocs/meebus/payment.php",
+		"/C/xampp/htdocs/meebus/ticket.php",
+		"/C/xampp/htdocs/meebus/header.php",
+		"/C/xampp/htdocs/meebus/ajax_otp_verify.php",
+		"/C/xampp/htdocs/meebus/includes/functions.php",
+		"/C/xampp/htdocs/meebus/includes/User.php",
+		"/C/xampp/htdocs/meebus/testing.php",
+		"/C/xampp/htdocs/meebus/server/server.php",
+		"/C/xampp/htdocs/meebus/bus_library/APICaller.php",
+		"/C/xampp/htdocs/meebus/agent/agent/includes/functions.php",
+		"/C/xampp/htdocs/meebus/atom/payment.php",
+		"/C/xampp/htdocs/meebus/search.php",
+		"/C/xampp/htdocs/meebus/admin/includes/footer.php",
+		"/C/xampp/htdocs/meebus/admin/includes/head.php",
+		"/C/xampp/htdocs/meebus/admin/login.php",
+		"/C/xampp/htdocs/meebus/seatlayout.php",
+		"/C/xampp/htdocs/meebus/searchBack.php",
+		"/C/xampp/htdocs/meebus/index.php",
+		"/C/xampp/htdocs/meebus/includes/pdo_functions.php",
+		"/C/xampp/htdocs/meebus/index2.php",
+		"/C/xampp/htdocs/meebus/config.php",
+		"/C/xampp/htdocs/meebus/ajax_send_otp.php",
+		"/C/xampp/htdocs/meebus/station.php",
+		"/C/Users/ADMIN/Downloads/search.php",
+		"/C/xampp/htdocs/meebus/connection.php",
+		"/C/xampp/htdocs/meebus/info.php",
+		"/C/xampp/htdocs/meebus/logout.php",
+		"/C/xampp/htdocs/meebus/js_home/script.js",
+		"/C/xampp/htdocs/meebus/js/typeahead.min.js",
+		"/C/xampp/htdocs/meebus/admin/activateUser.php",
+		"/C/Users/ADMIN/Downloads/bus_api_log.sql",
+		"/C/Users/ADMIN/Downloads/meebus_meebus.sql",
+		"/C/xampp/htdocs/animator/depa/application/controllers/Member.php",
+		"/C/xampp/htdocs/animator/depa/application/controllers/Family.php",
+		"/C/xampp/htdocs/animator/depa/application/controllers/Api/Family.php",
+		"/C/xampp/htdocs/animator/depa/application/controllers/Api/Member.php",
+		"/C/xampp/htdocs/animator/depa/application/views/admin/edit-member.php",
+		"/C/xampp/htdocs/animator/depa/application/views/admin/edit-family-head.php",
+		"/C/xampp/htdocs/animator/depa/assets/admin/js/member-list.js",
+		"/C/xampp/htdocs/animator/depa/application/models/Family_model.php",
+		"/C/xampp/htdocs/animator/depa/application/models/Member_model.php",
+		"/C/xampp/htdocs/animator/depa/application/views/admin/family-new.php",
+		"/C/xampp/htdocs/animator/depa/assets/admin/js/new-member.js",
+		"/C/xampp/htdocs/animator/depa/assets/admin/js/family-new.js",
+		"/C/xampp/htdocs/animator/depa/application/views/admin/member-list.php",
+		"/C/xampp/htdocs/animator/depa/application/config/routes.php",
+		"/C/xampp/htdocs/animator/depa/application/helpers/users_helper.php",
+		"/C/xampp/htdocs/animator/depa/application/controllers/Admin.php",
+		"/C/xampp/htdocs/animator/depa/application/views/admin/includes/leftside.php",
+		"/C/xampp/htdocs/animator/depa/application/views/admin/headlist.php",
+		"/C/xampp/htdocs/animator/depa/application/config/database.php",
+		"/C/xampp/htdocs/reactapp/src/App.js",
+		"/C/xampp/htdocs/reactapp/src/index.js",
+		"/C/xampp/htdocs/reactapp/public/robots.txt",
+		"/C/xampp/htdocs/react/my-app/src/index.tsx",
+		"/C/xampp/htdocs/react/my-app/src/App.tsx",
+		"/C/xampp/htdocs/react/my-app/src/index.css",
+		"/C/xampp/htdocs/react/my-app/src/App.css",
+		"/C/xampp/htdocs/reactapp/package.json",
+		"/C/xampp/htdocs/reactapp/src/setupTests.js",
+		"/C/xampp/htdocs/reactapp/src/reportWebVitals.js",
+		"/C/xampp/htdocs/reactapp/public/index.html",
+		"/C/xampp/htdocs/express/myapp/bin/www",
+		"/C/xampp/htdocs/express/myapp/package.json",
+		"/C/xampp/htdocs/express/myapp/app.js",
+		"/C/xampp/htdocs/express/myapp/routes/index.js",
+		"/C/xampp/htdocs/veggielo/assets/admin/js/order-list.js",
+		"/C/xampp/htdocs/veggielo/application/controllers/Modal.php",
+		"/C/xampp/htdocs/veggielo/application/controllers/Api/Order.php",
+		"/C/xampp/htdocs/veggielo/application/controllers/Api/Changepassword.php",
+		"/C/xampp/htdocs/veggielo/application/controllers/Api/Profile.php",
+		"/C/xampp/htdocs/veggielo/application/models/Order_model.php",
+		"/C/xampp/htdocs/veggielo/application/models/Box_model.php",
+		"/C/xampp/htdocs/veggielo/application/helpers/users_helper.php",
+		"/C/xampp/htdocs/veggielo/application/helpers/common_helper.php",
+		"/C/xampp/htdocs/veggielo/application/views/admin/modal/modal_vieworder.php",
+		"/C/xampp/htdocs/veggielo/application/views/admin/includes/rightsidebar.php",
+		"/C/xampp/htdocs/veggielo/application/views/admin/includes/leftside.php",
+		"/C/xampp/htdocs/veggielo/application/views/admin/main.php",
+		"/C/xampp/htdocs/veggielo/Modules.doc",
+		"/C/xampp/htdocs/veggielo/assets/admin/js/manage-category.js",
+		"/C/xampp/htdocs/veggielo/assets/admin/js/change-password.js",
+		"/C/xampp/htdocs/veggielo/assets/admin/js/edit-product.js",
+		"/C/xampp/htdocs/veggielo/application/views/admin/new-product.php",
+		"/C/xampp/htdocs/veggielo/assets/admin/js/common.js",
+		"/C/xampp/htdocs/veggielo/application/config/database.php",
+		"/C/xampp/htdocs/veggielo/application/views/web/main.php",
+		"/C/xampp/htdocs/veggielo/application/views/web/dashboard.php",
+		"/C/xampp/htdocs/veggielo/application/views/web/includes/header.php",
+		"/C/xampp/htdocs/veggielo/application/models/Register_model.php",
+		"/C/xampp/htdocs/veggielo/application/controllers/Profile.php",
+		"/C/xampp/htdocs/veggielo/application/controllers/Web.php",
+		"/C/xampp/htdocs/veggielo/application/models/Users_model.php",
+		"/C/xampp/htdocs/veggielo/application/models/Login_model.php",
+		"/C/xampp/htdocs/veggielo/.htaccess",
+		"/C/xampp/htdocs/veggielo/application/config/routes.php",
+		"/C/xampp/htdocs/veggielo/assets/web/js/profile.js",
+		"/C/xampp/htdocs/veggielo/application/models/Checkout_model.php",
+		"/C/xampp/htdocs/veggielo/application/models/Cart_model.php",
+		"/C/xampp/htdocs/veggielo/application/controllers/Api/Checkout.php",
+		"/C/xampp/htdocs/veggielo/application/controllers/Api/Register.php",
+		"/C/xampp/htdocs/veggielo/application/views/web/signin.php"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+			"C:\\xampp\\htdocs\\meebus\\",
+			"C:\\xampp\\htdocs\\meebus\\admin",
+			"C:\\xampp\\htdocs\\meebus",
+			"C:\\xampp\\htdocs\\reactapp",
+			"C:\\xampp\\htdocs\\veggielo\\",
+			"C:\\xampp\\htdocs\\veggielo\\application\\models",
+			"C:\\xampp\\htdocs\\animator\\kumar\\assets"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"whats_app_no",
+			"CC",
+			"remark",
+			"client_date_to",
+			"client_date_from",
+			"city",
+			"address",
+			"common_email",
+			"_Policy",
+			"micr_code",
+			"ifsc_code",
+			"branch_name",
+			"bank_name",
+			"account_number",
+			"account_holder_name",
+			"courier_address",
+			"cheque_name",
+			"website",
+			"Website",
+			"website",
+			"office_contact",
+			"zipcode",
+			"Zipcode",
+			"zipcode",
+			"state",
+			"State",
+			"state",
+			"address",
+			"Address",
+			"address",
+			"Address",
+			"address",
+			"common_email",
+			"policy_name",
+			"apiUrl",
+			"getPolicyList",
+			"_name",
+			"name",
+			"getDepartmentList",
+			"ifexist",
+			"getCompanyList",
+			"Insurance Company",
+			"company",
+			"Company",
+			"$unicId",
+			"update_detail",
+			"book_bus_tickets",
+			"insertDuplicatCancel",
+			"INSERT INTO book_bus_tickets",
+			"bookingDetail",
+			"confirmTicket",
+			"db_get_array",
+			"confirmTicket",
+			"function confirmTicket",
+			"confirmTicket",
+			"$detail",
+			"sessId",
+			"uniqueId",
+			"sessId",
+			"$_SESSION['user']['sessId']",
+			"addBookerDetail",
+			"INSERT INTO book_bus_tickets",
+			"addBookerDetail",
+			"getTicketDetail",
+			"getTicketdetails",
+			"session_id_b",
+			"book_bus_tickets",
+			"getBalance",
+			"change it from user menu for later",
+			"Login successfully Done Your Default password i",
+			"['user']['log']['id']",
+			"server",
+			"font-a",
+			"http://preethi/meebus/admin/",
+			"showSeatLayout",
+			"datepickers",
+			"toCity",
+			"fromCity",
+			"ter_from",
+			"datepi",
+			"dd-mm-yy",
+			"results",
+			"originid",
+			"$usermodule",
+			"datepicker1",
+			"dd-mm-yy",
+			"datepicker",
+			" type=\"date\"",
+			"getAvailableBuses",
+			"del",
+			"getBookingInfoByPaystatus",
+			"includes/busSource",
+			"typeahead",
+			"busSource",
+			"getBusCities",
+			"new PDO",
+			"pdo",
+			"originid",
+			"ress",
+			"getBookingInfoByPaystatus",
+			"getBusCities",
+			"updatebusSearch",
+			"getAvailableBuses",
+			"APICaller",
+			"search",
+			"$obj",
+			"class=\"wrap1\"",
+			"<div class=\"wrap1\" class=\"cf\">",
+			"main-slider-carousel",
+			"owl",
+			"wow",
+			"form_se",
+			"failed to connect",
+			"member_id",
+			"familyPId",
+			"familyId",
+			"getrelation",
+			"$id=''",
+			"javascript:void(0)",
+			"../images/",
+			"background:url",
+			"../images/btn.png",
+			"background:url",
+			"../images/how_to_play.png",
+			"../images/app.png",
+			"3000",
+			"changeStatus",
+			"first_name"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"path": "C:\\xampp\\htdocs\\meebus"
+		}
+	],
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"routes",
+				"application\\config\\routes.php"
+			],
+			[
+				"order-list.js",
+				"assets\\admin\\js\\order-list.js"
+			],
+			[
+				"profile.js",
+				"assets\\web\\js\\profile.js"
+			],
+			[
+				"login_model",
+				"application\\models\\Login_model.php"
+			],
+			[
+				"dashboard",
+				"application\\views\\web\\dashboard.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 355.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
